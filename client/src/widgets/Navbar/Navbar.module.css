@@ -1,0 +1,36 @@
+.wrapper {
+  position: fixed;
+  top: 0px;
+  width: 60%;
+  height: 70px;
+  backdrop-filter: blur(10px);
+  z-index: 9999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin-left: 19%;
+  margin-right: 14%;
+}
+
+.right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.elem1 {
+	position: absolute;
+	top: 10px;
+}
+
+.elem2 {
+  position:relative;
+	left: 14px;
+  bottom: 10px;
+}
+
+.elem3 {
+  position:relative;
+	left: 18px;
+  bottom: 32px;
+}

@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    width: 550px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px  20px 20px 20px;
+    margin-top: 1%;   
+}
+
+.elem1{
+    margin-top: 15%;
+    width: 30%;   
+}
+
+.elem2{
+   text-align: right; 
+   width: 190px;
+}
+    
+   
+    

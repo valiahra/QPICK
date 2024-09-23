@@ -1,0 +1,11 @@
+.wrapper {
+  height: 390.81px;
+  width: 350px;
+  border-radius: 15px; 
+}
+
+.image {
+  padding: 3%;
+  width: 215px;
+  height: 200px; 
+} 
